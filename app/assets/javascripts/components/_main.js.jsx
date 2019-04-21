@@ -10,7 +10,7 @@ const Main = props => {
             <div>
                 <h1>React RoR Blog</h1>
             </div>
-            <p> here we will add our article CRUD component </p>
+            <ArticlesContainer />
         </div>
     );
 };
